@@ -319,7 +319,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../../images/background-image-mobile.jpg);
+    url(/images/background-image-mobile.jpg);
   background-size: cover;
   background-position: center;
   max-width: 1440px;
@@ -335,7 +335,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../../images/background-image-mobile@2x.jpg);
+      url(/images/background-image-mobile@2x.jpg);
   }
 }
 
@@ -345,7 +345,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../../images/background-image-tablet.jpg);
+      url(/images/background-image-tablet.jpg);
   }
 }
 
@@ -357,7 +357,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../../images/background-image-tablet@2x.jpg);
+      url(/images/background-image-tablet@2x.jpg);
   }
 }
 
@@ -367,7 +367,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../../images/background-image-desktop.jpg);
+      url(/images/background-image-desktop.jpg);
   }
 }
 
@@ -379,7 +379,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../../images/background-image-desktop@2x.jpg);
+      url(/images/background-image-desktop@2x.jpg);
   }
 }
 
